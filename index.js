@@ -12,6 +12,7 @@ app.use(
     origin: [
       "https://daily-extendure.web.app",
       "https://daily-extendure.firebaseapp.com",
+      "http://localhost:5173"
     ],
   })
 );
